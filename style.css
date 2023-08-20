@@ -1,0 +1,22 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black
+ }
+
+ body{
+    background-color: #0A0A0A;
+
+ }
+h1{
+    color: aliceblue;
+    
+}
+h2{
+    color: aliceblue;
+  
+}
+section{
+    color: aliceblue;
+    
+}
